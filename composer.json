@@ -1,0 +1,18 @@
+{
+    "config": {
+    	"bin-dir": "bin/"
+    },
+    "autoload": {
+    	"psr-0": {"CodeEducation": "src/"}
+    },
+    "name": "maia/php_unit",
+    "authors": [
+        {
+            "name": "Eduardo Maia",
+            "email": "maia@eduardomaia.com"
+        }
+    ],
+    "require": {
+    	"phpunit/phpunit": "4.2.6"
+    }
+}
